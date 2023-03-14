@@ -70,3 +70,6 @@ E:\My Study\Learning Tech\Learn to build an e-commerce app with .Net Core and An
 E:\My Study\Learning Tech\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net7.0\Infrastructure.dll
 E:\My Study\Learning Tech\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net7.0\Infrastructure.pdb
 E:\My Study\Learning Tech\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net7.0\Core.pdb
+E:\My Study\Learning Tech\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net7.0\Data\SeedData\brands.json
+E:\My Study\Learning Tech\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net7.0\Data\SeedData\products.json
+E:\My Study\Learning Tech\Learn to build an e-commerce app with .Net Core and Angular\skinet\API\bin\Debug\net7.0\Data\SeedData\types.json
