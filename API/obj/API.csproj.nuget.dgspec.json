@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
         "outputPath": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -92,6 +95,9 @@
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
         "outputPath": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -148,6 +154,9 @@
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
         "outputPath": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
