@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\API.csproj": {}
+    "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\API.csproj": {}
   },
   "projects": {
-    "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\API.csproj": {
+    "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\API.csproj",
+        "projectUniqueName": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\API.csproj",
+        "projectPath": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\obj\\",
+        "outputPath": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -24,14 +24,16 @@
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.selise.biz/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Infrastructure\\Infrastructure.csproj"
+              "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -92,14 +94,14 @@
         }
       }
     },
-    "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Core\\Core.csproj": {
+    "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Core\\Core.csproj",
+        "projectPath": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Core\\obj\\",
+        "outputPath": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -157,14 +159,14 @@
         }
       }
     },
-    "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Infrastructure\\Infrastructure.csproj": {
+    "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Infrastructure\\obj\\",
+        "outputPath": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -185,8 +187,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Core\\Core.csproj": {
-                "projectPath": "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Core\\Core.csproj"
+              "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Core\\Core.csproj": {
+                "projectPath": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Core\\Core.csproj"
               }
             }
           }

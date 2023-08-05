@@ -3742,11 +3742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\API.csproj",
+      "projectUniqueName": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\API.csproj",
+      "projectPath": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\obj\\",
+      "outputPath": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3759,14 +3759,16 @@
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.selise.biz/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "e:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Infrastructure\\Infrastructure.csproj"
+            "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "E:\\My Study\\Learning Tech\\Learn to build an e-commerce app with .Net Core and Angular\\skinet\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -3826,5 +3828,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.selise.biz/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }
